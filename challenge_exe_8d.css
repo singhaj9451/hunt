@@ -1,0 +1,39 @@
+input{
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: rgb(200, 200, 200);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 16px;
+}
+
+.first_name{
+    width: 150px;
+   
+}
+.last_name{
+    width: 150px;
+}
+
+.mail{
+   display: block;
+   margin-top: 10px;
+   width: 382px;
+}
+
+.button{
+    margin-top: 10px;
+    width: 415px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    vertical-align: middle;
+    font-weight: bold;
+    background-color: rgb(47, 127, 231);
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 15px;
+}
